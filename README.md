@@ -43,6 +43,14 @@ So, Sharelock was born. It provides you with a simple and secure way to share se
 
 We welcome feedback and collaboration. You know where to file issues and how to submit pull requests. You can contact us [here](https://auth0.com/support).
 
-This project is licensed under MIT.
+## Issue Reporting
 
-Crafted by [Auth0](https://auth0.com)
+If you have found a bug or if you have a feature request, please report them at this repository issues section. Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/whitehat) details the procedure for disclosing security issues.
+
+## Author
+
+[Auth0](auth0.com)
+
+## License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
